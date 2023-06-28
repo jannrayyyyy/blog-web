@@ -42338,7 +42338,7 @@ H(a){var s,r,q,p,o=this,n=null,m="Ingredients",l="Procedures",k=t.p,j=A.arL(A.b(
 h=A.I1(h,A.a5j(g==null?"":g,B.ex,200,1/0))
 g=A.mR(B.l,o.d,"Food name",n,n,n)
 s=A.bT(n,2*$.bq.aQ()/100,n)
-r=A.mR(B.l,o.e,"Food description",n,15,n)
+r=A.mR(B.l,o.e,"Food description",n,n,n)
 q=J.fS(o.a.c.w)?B.cj:B.BV
 p=J.fS(o.a.c.w)?B.cj:new A.h0(o.w,"Notes","Notes",1,n)
 return A.abF(j,new A.cI(new A.ap(i,i,i,i),A.ad3(A.eZ(A.b([h,B.lG,g,s,r,B.fR,new A.h0(o.f,m,m,1,n),B.fR,new A.h0(o.r,l,l,1,n),B.fR,q,p,A.HE(n,A.cN(n,n,B.o,n,n,n,n,n,n,n,n,n,n),n,new A.ajd(),t.pe,t.S9)],k),B.bO,B.av,B.X)),n))}}
